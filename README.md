@@ -13,7 +13,7 @@
 
 ###  Файл с тест-кейсами
  **Скачать тест-кейсы**
-https://github.com/andreipyrlik05-lab/TC-ADMINKA-Trueconf/raw/main/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20%D0%90%D0%94%D0%9C%D0%98%D0%9D%D0%9A%D0%90.xlsx
+[📥 Скачать тест-кейсы (.xlsx)](https://github.com/andreipyrlik05-lab/TC-ADMINKA-Trueconf/raw/main/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20%D0%90%D0%94%D0%9C%D0%98%D0%9D%D0%9A%D0%90.xlsx)
 
 
 ### Скриншоты интерфейса
